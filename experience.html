@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--Import Google Icon Font-->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <!--Import materialize.css-->
+        <link type="text/css" rel="stylesheet" href="static/materialize.css"  media="screen,projection"/>
+        <!--Google font for text-->
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500" rel="stylesheet">
+        <link rel="icon" href="static/favicon.ico">
+        <!--Let browser know website is optimized for mobile-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <!-- overwrite some of the stylesheet -->
+        <style>
+            a {
+                font-family: 'Roboto Mono', monospace;
+            }
+            h1, h2, h3, h4, h5 {
+                font-family: 'Roboto Mono', monospace;
+            }
+            p {
+                font-family: 'Roboto Mono', monospace;
+            }
+        </style>
+    </head>
+
+    <body class='indigo lighten-4'>
+
+        <div class="container">
+          <!-- Page Content goes here -->
+          <div class="row">
+              <div class="col s12">
+                  <h1 class="center-align" style="padding-top: 100px;">
+                      Experience
+                  </h1>
+              </div>
+          </div>
+
+          <div class="row">
+            <div class="col s12 m9 l10">
+                <div id="education" class="section scrollspy">
+                    <h3 class="left-align">Education</h3>
+                    <div class="divider"></div>
+
+                    <p style="text-align:left; margin-bottom: -10px; font-weight:500; font-size:20px;">
+                        The University of Chicago
+                        <span style="float:right;">
+                            Chicago, Illinois
+                        </span>
+                    </p>
+                    <p style="text-align:left; margin-bottom: -10px;">
+                        B.S. in Computer Science
+                        <span style="float:right;">
+                            Class of 2019
+                        </span>
+                    </p>
+                    <p style="text-align:left; font-weight:300">
+                        My coursework at the college has focused primarily on mobile computing and
+                        applications of machine learning models. Outside of class I am a member of
+                        the Trott Business Program and a board member of Edge Entrepreneurship, a
+                        student run organization focused on building early stage companies. I am
+                        also a student-athlete in the Men's Varsity Tennis Team.
+                    </p>
+
+                    <p style="text-align:left; margin-bottom: -10px; font-weight:500; font-size:20px;">
+                        Booth School of Business
+                        <span style="float:right;">
+                            Chicago, Illinois
+                        </span>
+                    </p>
+                    <p style="text-align:left; margin-bottom: -10px;">
+                        Dougan Scholars Certificate Program
+                        <span style="float:right;">
+                            Class of 2019
+                        </span>
+                    </p>
+                    <p style="text-align:left; font-weight:300">
+                        I completed 6 MBA courses at the business school as a part of an undergraduate
+                        Booth program. Coursework included: Financial Accounting, Technology Strategy,
+                        Negotiations, Machine Learning, Competitive Strategy, and Marketing Strategy.
+                    </p>
+
+                </div>
+
+              <div id="professional" class="section scrollspy">
+                  <h3 class="left-align">Professional</h3>
+                  <div class="divider"></div>
+
+                  <p style="text-align:left; margin-bottom: -10px; font-weight:500; font-size:20px;">
+                      McKinsey & Company
+                      <span style="float:right;">
+                          Chicago, Illinois
+                      </span>
+                  </p>
+                  <p style="text-align:left; margin-bottom: -10px;">
+                      Summer Analytics Fellow
+                      <span style="float:right;">
+                          June 2018 - August 2018
+                      </span>
+                  </p>
+                  <p style="text-align:left; font-weight:300">
+                      Consultant on Advanced Analytics team in the Operations Practice.
+                  </p>
+
+              </div>
+
+              <div id="research" class="section scrollspy">
+                  <h3 class="left-align">Research</h3>
+                  <div class="divider"></div>
+
+                  <p style="text-align:left; margin-bottom: -10px; font-weight:500; font-size:20px;">
+                      SAND Lab
+                      <span style="float:right;">
+                          Chicago, Illinois
+                      </span>
+                  </p>
+                  <p style="text-align:left; margin-bottom: -10px;">
+                      Research Assistant
+                      <span style="float:right;">
+                          March 2018 - Present
+                      </span>
+                  </p>
+                  <p style="text-align:left; font-weight:300">
+                      Currently I am researching super resolution techniques for iris authentication.
+                      Past research topics include adversarial localization through passive WiFi sensing and
+                      predicting application usage through CPU data.
+                  </p>
+
+              </div>
+            </div>
+            <div class="col hide-on-small-only m3 l2">
+              <ul id="toc" class="section table-of-contents">
+                <li><a href="#education">Education</a></li>
+                <li><a href="#professional">Professional</a></li>
+                <li><a href="#research">Research</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="fixed-action-btn">
+            <a class="btn-floating btn-large pink lighten-2">
+              <i class="large material-icons">dehaze</i>
+            </a>
+            <ul>
+                <li><a class="btn-floating pink accent-4" href="/me.html"><i class="material-icons">mood</i></a></li>
+                <li><a class="btn-floating pink accent-3" href="/experience.html"><i class="material-icons">library_books</i></a></li>
+                <li><a class="btn-floating pink accent-2" href="/blog.html"><i class="material-icons">lightbulb_outline</i></a></li>
+                <li><a class="btn-floating pink accent-1" href="/index.html"><i class="material-icons">home</i></a></li>
+            </ul>
+          </div>
+
+
+        </div>
+
+        <!--JavaScript at end of body for optimized loading-->
+        <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="static/materialize.js"></script>
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var elems = document.querySelectorAll('.fixed-action-btn');
+            var instances = M.FloatingActionButton.init(elems, {
+              direction: 'left'
+            });
+          });
+        </script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var elems = document.querySelectorAll('.scrollspy');
+                var instances = M.ScrollSpy.init(elems, {});
+            });
+        </script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var elems = document.querySelectorAll('.pushpin');
+                var instances = M.Pushpin.init(elems, {});
+            });
+        </script>
+        <script>
+            $('#toc').pushpin({
+                top: $('#toc').offset().top
+            });
+        </script>
+    </body>
+</html>
