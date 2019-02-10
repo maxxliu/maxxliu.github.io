@@ -5130,6 +5130,7 @@ small {
 }
 
 .material-tooltip {
+  font-family: 'Roboto Mono', monospace;
   padding: 10px 8px;
   font-size: 1rem;
   z-index: 2000;
