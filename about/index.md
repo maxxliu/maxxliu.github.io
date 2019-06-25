@@ -23,8 +23,10 @@ developments in AR.
 
 ## Books
 
-Here are some of the books that I have read/ am currently reading; my favorites
-are bolded. I typically read books on technology, business, and entrepreneurship
+Here are some of the books that I have read/ am currently reading;
+**my favorites
+are bolded**. I typically read books on technology, business, and
+entrepreneurship
 but I am trying to expand the breadth of books that I read. If you have book
 recommendations I would love to hear them!
 
