@@ -2,6 +2,21 @@
 <search>
   
     <entry>
+      <title><![CDATA[Life Update]]></title>
+      <url>/life/2019/07/10/Update/</url>
+      <content type="text"><![CDATA[I have not posted on my blog in a while so here is a quick update on what I havebeen up to lately:  Played my last college tennis match in the Final Four of the NCAA tournament  Graduated from the University of Chicago with a B.S. in Computer Science  Updated the look of my website (as you can see)  Traveled around Iceland in a camper vanI will begin to post more regularly on my blog so keep your eyes out for newcontent!]]></content>
+      <categories>
+        
+          <category> Life </category>
+        
+      </categories>
+      <tags>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
       <title><![CDATA[MIT Sloan Sports Analytics Conference 2019]]></title>
       <url>/sports/2019/03/21/SSAC/</url>
       <content type="text"><![CDATA[This post is coming a bit late, but I have finally finishedWinter quarter at UChicago and am excited to share some ofmy experiences from the MIT Sloan Sports AnalyticsConference!#SSAC19For those of you that don’t know, the Sloan Sports Analytics Conference is aconference held every year in Boston where industry leaders in basketball,football, baseball, etc., researchers, startups, and analytics enthusiastsgather to discuss and learn about all things related to sports analytics. Thisyear it was held at the Hynes Convention Center from March 1-2 and I wasfortunate enough to attend both the conference and the hackathon that tookplace the day before. The conference was especially exciting for me because inthe fall I worked on action recognition with the purpose of applying it tobasketball footage and this would be an amazing place to learn more about thecutting edge in computer vision application for sports.The theme for this year’s hackathon was designing a unique digital fanexperience; we were given hawk eye data and match data from the 2018 BNPParibas Open, specifically from the women’s matches, to complete the challenge.Hawk eye data included the exact locations of the tennis ball during the serveas well as information about point duration and how the point was won. Weactually made it to the finals of the competition which was super exciting, andwere given the opportunity to present our idea during the second day of theconference. I’m not going to go super in depth into the idea and the models,but you can find our final presentationhere, a rough demohere(my first time using sketch and it was an amazing learning experience),and the final presentationshere(we start about 50 minutes in).During the conference I had the opportunity to hear a ton of amazing peopletalk about sports as well as meet a bunch of people from startups doing reallycool work with computer vision and AR/VR (pose estimation, action recognition,VR training, etc.). Some of my personal favorites were:  Bob Myers, Zach Lowe, Mike Zarren, and Paul Pierce talking about “unicorns”in basketball. It was a super fun discussion and one of my biggest takeaways wasthat Shaq would still be an unreal player in the NBA today.  Meek Mill and Michael Rubin discussing social justice reform. A trulyinspiring talk and extremely eye opening to hear about the side of America thatso many of us have the privilege of not seeing on a day to day basis.  Adam Silver answering a bunch of questions pertaining to the current state ofthe NBA and its players. The most surprising thing that Adam Silver discussedwas the disconnect between how fans perceive the professional basketballlifestyle and the reality of players and their mental health.  Katie Nolan, Larry Fitzgerald, Adam Hansmann, and Jeanie Buss discussing therelationship between athletes and the media and how that has evolved over theyears. It was very interesting to hear so many perspectives on this topic fromplayers and owners to people who create media content.  Malcolm Gladwell and David Epstein discussing the modern athlete and what ittakes to become a world class athlete. This was the most relevant talk for me interms of tennis and improving myself as a tennis player; most of the talkrevolved around the theme of why it is important to acquire a diverse set ofskills and try new things rather than hyper specialize in one area from anextremely young age.Overall, I had an amazing time at the conference and I look forward to havingan opportunity to attend again!Please do not hesitate to reach out and provide commentary or feedback on thispost!]]></content>
@@ -13,6 +28,8 @@
       <tags>
         
           <tag> analytics </tag>
+        
+          <tag> tennis </tag>
         
       </tags>
       <tags></tags>

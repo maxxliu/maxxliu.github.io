@@ -90,7 +90,7 @@ interested, Hans Wouters has a beautiful Youtube channel on longboard dancing.
 
 ## Food, Drinks
 
-Lately I have been spending a lot more time thinking aboutNo apologies here.
+No apologies here.
 
 - Coconut water
 - Quinoa
