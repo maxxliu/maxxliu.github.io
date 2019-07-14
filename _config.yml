@@ -5,7 +5,7 @@
 
 # Site
 title: Max Liu
-subtitle: 6d 61 78 6c 69 75
+subtitle: 57 65 6c 63 6f 6d 65 21
 description: maxxliu19 [at] gmail [dot] com
 author: Max Liu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -217,6 +217,7 @@ social:
   #LinkLabel: Link
   GitHub: https://github.com/maxxliu
   LinkedIn: https://www.linkedin.com/in/max-liu-1588b5107/
+  Twitter: https://twitter.com/max_x_liu
 
 
 # Social Links Icons
@@ -236,7 +237,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/max.jpg
+avatar: /assets/images/max2.jpg
 
 
 # Table Of Contents in the Sidebar
