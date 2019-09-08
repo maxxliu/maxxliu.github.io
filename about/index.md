@@ -3,23 +3,37 @@ layout: page
 type: about
 ---
 
-I am currently a fourth year at UChicago studying computer science and an
-undergraduate research assistant at
-[Sand Lab](http://sandlab.cs.uchicago.edu/index.html).
-I am passionate about technology and startups and believe that being an
-entrepreneur is not a title but rather a mindset when approaching processes
-and challenges. Specifically, I am interested in the applications of machine
-learning,
-mobile computing, and computer vision in understanding the world around us. I
-envision a
-future where users will be able to seamlessly interact with both the real and
-the virtual,
-not limited by the screen size of their devices. Some areas that I think could
-make this
+I am currently a consultant at McKinsey in the
+[Silicon Valley](https://www.mckinsey.com/west-coast)
+office. I am
+passionate about technology and startups (primarily consumer tech products and
+media) and believe that being an entrepreneur is not a title but rather a
+mindset when approaching processes and challenges. Specifically, I am interested
+in the applications of machine learning, mobile computing, and computer vision
+in understanding the world around us. I envision a future where users will be
+able to seamlessly interact with both the real and the virtual, not limited by
+the screen size of their devices. Some areas that I think could make this
 possible are AR/VR/MR, edge computing, spatial computing, mobile sensing, and
-smart
-cities, among many others. Right now I am particularly fascinated by
-developments in AR.
+smart cities, among many others. Right now I am particularly fascinated by
+developments in AR and developments in how users consume content.
+
+Previously I studied computer science at UChicago and researched mobile
+computing topics at
+[Sand Lab](http://sandlab.cs.uchicago.edu/index.html)
+under Heather Zheng and Yanzi Zhu. I also played
+varsity tennis for UChicago and was a
+[Dougan Scholar](https://www.chicagobooth.edu/programs/dougan-scholars-program)
+at Booth. Current
+students - feel free to reach out if you have any questions!
+
+**A quote that I find calming to recite throughout the day:**
+*“The people I deal with today
+will be meddling, ungrateful, arrogant, dishonest, jealous, and surly. They are
+like this because they can’t tell good from evil. But I have seen the beauty of
+good, and the ugliness of evil, and have recognized that the wrongdoer has a
+nature related to my own - not of the same blood or birth, but the same mind,
+and possessing a share of the divine. And so none of them can hurt me.”* - Marcus
+Aurelius
 
 ## Books
 
@@ -37,69 +51,45 @@ recommendations I would love to hear them!
 - Modern Romance - Aziz Ansari
 - Works Well with Others - Ross McCammon
 - **Shoe Dog - Phil Knight**
+- **Tools of Titans - Tim Ferriss\***
+- **The Lean Startup - Eric Ries**
+- Crossing the Chasm - Geoffrey Moore
+- The Color of Law - Richard Rothstein
 
-## TV, Movies, Music
+\* This book has fundamentally changed the way that I think about life and my
+career. If I could recommend any book for every single person to read it would
+be this one. Eternally grateful for
+[Bobby Adusumilli](https://www.linkedin.com/in/bobby-adusumilli-5925ab82/)
+for giving me this book and many others.
 
+## Other interests
+
+**TV:**
 I have a bad habit of binging the same TV shows over and over again back to back
 but sometimes the show is just too good. Hands down my favorite TV show is Psych
 (starring the amazing James Roday and Dule Hill), I mean who wouldn't want to
 start a psychic detective agency with their best friend in Santa Barbara?
-Beyond Psych, here are some more of my top TV shows and movies (in no particular
-order):
 
-- Psych
-- The Office
-- Parks and Recreation
-- Brooklyn 99
-- Friends
-- How I Met Your Mother
-- New Girl
-- Spider-Man: Into the Spider-Verse
+**Music:**
+This is essential to my daily routine.
 
-Music is essential to my daily routine. Here are the artists I am listening to
-right now (in no particular order):
+**Hobbies:**
+Outside of my professional interests, I love playing sports and exploring
+cities and new areas. I am also looking to get into pretty much any extreme
+sport or slightly dangerous outdoor activity.
 
-- Post Malone
-- Swae Lee
-- Amine
-- Dua Lipa
-- Gallant
-- Luke Christopher
-- The Weeknd
-- Japanese Wallpaper
-- Violents, Monica Martin
+**Food:**
+I probably spend too much time talking about coconut water.
 
-## Hobbies
 
-I enjoy playing sports as well as a variety of outdoor activites. The amount of
-time that I spend exercising has decreased significantly since starting college
-but I still enjoy trying new things and learning new skills!
 
-**Tennis** - This is more of a love hate relationship but I am always down to
-play doubles!
+| **TV**               | **Music**     | **Hobbies** | **Food**             |
+|----------------------|---------------|-------------|----------------------|
+| Psych                | Ariana Grande | Tennis      | Coconut water        |
+| The Office           | NIKI          | Running     | Hand pulled noodles  |
+| Parks and Recreation | Gallant       | Basketball  | Pho                  |
+| Brooklyn 99          | Ella Mai      | Reading     | Carne asada burritos |
+| Friends              | G-Eazy        | Exploring   | Sushi                |
 
-**Basketball** - I love the team aspect of the game especially because I grew up
-playing an individual sport. Additionally, it is super interesting to explore
-what insights basketball analytics can provide (especially applications of
-computer vision in basketball videos).
-
-**Longboarding** - Some of my best memories from college include riding down the
-North Parking Garage at midnight when there were no more cars around. Longboard
-dancing is also a beautiful sport that I am trying to get more into. If you are
-interested, Hans Wouters has a beautiful Youtube channel on longboard dancing.
-
-## Food, Drinks
-
-No apologies here.
-
-- Coconut water
-- Quinoa
-- Avocado
-- Quinoa stuffed avocado
-- Kombucha
-- Acai bowl
-- Hand pulled noodles
-- Pho
-- Fried chicken
-- In-N-Out
-- Carne asada burrito
+This list is by no means exhaustive; just the first couple of things I could
+think of off the top of my head.
